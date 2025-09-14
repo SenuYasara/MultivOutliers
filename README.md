@@ -66,7 +66,7 @@ result_mcd[result_mcd$Outlier == TRUE, ]
 Documentation is provided using Roxygen2. After loading the package via load_all(), you can view help with:
 
 ```r
-?multivariate_outlier
+?multivariate_outliers
 
 
 
